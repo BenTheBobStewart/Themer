@@ -9,7 +9,3 @@
  * [Warm Red Theme](Colors/strawberry.js)
  * [Blue Theme](Colors/blue.js)
  * [Extra Black Theme](Colors/amoled.js)
- * [Missing Blooks](Global/MissingBlooks.js)
- * [Mass Friend Request](Global/FriendRequest.js)
- * [Custom Chat](Global/CustomChat.js)
- * [Blooks Info](Global/BlooksInfo.js)
