@@ -9,3 +9,4 @@
  * [Warm Red Theme](Colors/strawberry.js)
  * [Blue Theme](Colors/blue.js)
  * [Extra Black Theme](Colors/amoled.js)
+ * [Slightly Darker Theme (Rewrite)](Colors/rewrite.js)
